@@ -1,6 +1,5 @@
 package com.mobilestore;
 
-import java.util.Arrays;
 
 public class Mobile {
 
